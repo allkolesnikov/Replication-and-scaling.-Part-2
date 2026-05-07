@@ -138,8 +138,8 @@ DB_BOOKS_EXTRA
    users EU    users US    users ASIA
    shops EU    shops US    shops ASIA
    books EU    books US    books ASIA
-
-
+```
+```
 Вертикальное разделение:
 
         +------------------+
